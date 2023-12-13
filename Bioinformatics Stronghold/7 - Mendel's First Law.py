@@ -1,6 +1,6 @@
-k = 21
-m = 21
-n = 19
+f = open("datasets/rosalind_iprb.txt", "r")
+k, m, n = [int(x) for x in f.readline().split()]
+
 total = k + m + n
 
 total_alelos = 2 * total

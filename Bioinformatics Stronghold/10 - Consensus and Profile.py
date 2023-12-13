@@ -1,4 +1,4 @@
-f = open("consensus.txt", "r")
+f = open("datasets/rosalind_cons.txt", "r")
 FASTA = f.read()
 
 def clean_fasta(fasta: str):

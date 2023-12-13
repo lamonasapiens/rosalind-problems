@@ -1,3 +1,5 @@
+f = open("datasets/rosalind_revc.txt", "r")
+DNA = f.read()
 
 def complement(dna):
     inverted_dna = dna.lower()[::-1]
@@ -9,5 +11,4 @@ def complement(dna):
     return Cdna
 
 
-s = input("your DNA: ")
-print(complement(s))
+print(complement(DNA))
