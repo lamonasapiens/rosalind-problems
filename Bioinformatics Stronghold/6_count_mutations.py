@@ -10,6 +10,7 @@ def clean_fasta(fasta):
     return seq1, seq2
 
 def mutations(seq1, seq2):
+    #given 2 strings, it counts the nº of differences between them (=mutations)
     return sum(i != j for i, j in zip(seq1, seq2))
 
     
