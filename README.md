@@ -1,2 +1,2 @@
-# Description
-This respository contains the solutions of the problems listed in [https://rosalind.info/] 
+# Rosalind Solutions
+This respository contains the solutions to the bioinformatics problems listed in Rosalind: [https://rosalind.info/]. Hope this helps!

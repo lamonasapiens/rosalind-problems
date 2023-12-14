@@ -1,5 +1,4 @@
-f = open("datasets/rosalind_revc.txt", "r")
-DNA = f.read()
+"""Given a DNA sequence, return the complementary string:"""
 
 def complement(dna):
     inverted_dna = dna.lower()[::-1]
@@ -10,5 +9,8 @@ def complement(dna):
                     .replace("g", "C")
     return Cdna
 
+
+f = open("datasets/rosalind_revc.txt", "r")
+DNA = f.read()
 
 print(complement(DNA))

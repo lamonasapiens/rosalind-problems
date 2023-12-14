@@ -1,3 +1,5 @@
+"""Return the protein string encoded by a given DNA sequence:"""
+
 aminoacids = {
     "UUU" : "F", "UUC" : "F", "UUA" : "L", "UUG" : "L",
     "CUU" : "L", "CUC" : "L", "CUA" : "L", "CUG" : "L",
@@ -18,16 +20,17 @@ aminoacids = {
 }
 
 
-f = open("datasets/rosalind_prot.txt", "r")
-RNA = f.read()
-
-
 def translation(rna):
-    """Returns the sequence of aminoacids translated from a RNA sequence"""
+    """Returns the sequence of aminoacids translated from a RNA 
+    sequence"""
     protein = ""
     for i in range(0, len(rna), 3):
         codon = rna[i:i+3]
         protein = protein + aminoacids[codon]
     return protein
+
+
+f = open("datasets/rosalind_prot.txt", "r")
+RNA = f.read()
 
 print(translation(RNA))
