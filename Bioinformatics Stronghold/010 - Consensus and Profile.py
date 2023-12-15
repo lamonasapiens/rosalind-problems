@@ -1,7 +1,9 @@
 """Given A collection of at most 10 DNA strings of equal length,
 return a consensus string and profile matrix for the collection. (If
 several possible consensus strings exist, then you may return any one
-of them.)"""
+of them.)
+_____________________________________________________________________
+"""
 
 def clean_fasta(fasta: str):
     """It cleans the FASTA and returns a list of DNA strings, without the ID"""

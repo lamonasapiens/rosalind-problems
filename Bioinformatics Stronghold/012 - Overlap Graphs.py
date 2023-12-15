@@ -7,11 +7,10 @@ directed loops in the overlap graph (although directed cycles may be
 present)
 
 Given a collection of DNA strings in FASTA format, return the
-adjacency list corresponding to "O3"."""
+adjacency list corresponding to "O3".
+______________________________________________________________________
+"""
 
-
-f = open("datasets/rosalind_grph.txt", "r")
-FASTA = f.read()
 
 def clean_fasta(fasta: str):
     """Given a string in FASTA format, returns a dictionary with the
@@ -36,6 +35,9 @@ def graph(sequences: dict):
                 adjacency += f"{key1} {key2}\n"
     return adjacency
 
+
+f = open("datasets/rosalind_grph.txt", "r")
+FASTA = f.read()
 
 DNAs = clean_fasta(FASTA)
 print(graph(DNAs))
