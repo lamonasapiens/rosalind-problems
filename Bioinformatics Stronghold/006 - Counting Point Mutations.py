@@ -2,7 +2,7 @@
 two DNA sequences:"""
 
 def clean_fasta(fasta):
-    """given a str with 2 DNAs, returns one variable for each DNA"""
+    """given a str with 2 DNAs, returns one list for each DNA"""
     sequences = fasta.split()
     seq1 = sequences[0]
     seq2 = sequences[1]

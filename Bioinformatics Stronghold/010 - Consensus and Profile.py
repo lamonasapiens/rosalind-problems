@@ -8,11 +8,7 @@ _____________________________________________________________________
 def clean_fasta(fasta: str):
     """It cleans the FASTA and returns a list of DNA strings, without the ID"""
     sequences = fasta.split(">")[1:]
-    lista = []
-    for i in sequences:
-        line = i.split("\n", 1)[1]
-        lista.append(line.replace("\n", ""))
-    return lista
+    return [i.split("\n", 1)[1].replace("\n", "") for i in sequences]
 
 
 def profile(DNAs):
