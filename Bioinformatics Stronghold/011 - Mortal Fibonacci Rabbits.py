@@ -9,14 +9,24 @@ dynamic programming solution in the case that all rabbits die out
 after a fixed number of months (m) """
 
 
-f = open("datasets/rosalind_fib.txt", "r")
-n, k = f.readline().strip().split(" ")
+f = open("datasets/rosalind_fibd.txt", "r")
+n, m = f.readline().strip().split(" ")
 
 
-def F(n, k):
+#This function uses dynamic programming to improve performance
+def F(n, m, memo={}):
+    if n <= 0:
+        return 0
     if n == 1 or n == 2:
         return 1
+    if (n, m) in memo:
+        return memo[(n, m)]
+    if n <= m:
+        result = F(n-1, m, memo) + F(n-2, m, memo)
     else:
-        return F(n-1, k) + k*F(n-2, k)
+        result = sum(F(n-i, m, memo) for i in range(2,m+1))
+    memo[(n, m)] = result
+    return result
+    
 
-print (F(n, k))
+print(F(int(n),int(m)))
