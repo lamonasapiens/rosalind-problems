@@ -5,7 +5,7 @@ transcribing and translating the exons of s.
 (Note: Only one solution will exist for the dataset provided.)
 __________________________________________________________________
 """
-import re
+
 aminoacids = {
     "UUU" : "F", "UUC" : "F", "UUA" : "L", "UUG" : "L",
     "CUU" : "L", "CUC" : "L", "CUA" : "L", "CUG" : "L",
