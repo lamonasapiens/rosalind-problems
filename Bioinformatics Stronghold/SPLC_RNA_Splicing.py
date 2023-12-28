@@ -1,6 +1,7 @@
 """Given: A DNA string (s) and a collection of substrings of s
 acting as introns. Return: A protein string resulting from 
 transcribing and translating the exons of s. 
+
 (Note: Only one solution will exist for the dataset provided.)
 __________________________________________________________________
 """
@@ -33,40 +34,18 @@ introns = [i.split("\n", 1)[1].replace("\n", "") for i in sequences][1:]
 
 #Remove the introns from the DNA
 for intron in introns:
-    DNA = DNA.replace(intron, "") 
-
+    DNA = DNA.replace(intron, "")
 
 #DNA to RNA transcription
-RNA_m = DNA.lower()[::-1]\
-        .replace("a", "U")\
-            .replace("t", "A")\
-                .replace("c", "G")\
-                    .replace("g", "C")
-
+mRNA = DNA.replace("T", "U")
 
 #RNAm to protein translation
-def translation(rna):
-    protein = ""
-    for i in range(0, len(rna)-2, 3):
-        codon = rna[i:i+3]
+protein = ""
+for i in range(0, len(mRNA)-2, 3):
+    codon = mRNA[i:i+3]
+    if aminoacids[codon] == " ":
+        break
+    else:
         protein += aminoacids[codon]
-    return protein
-
-
-#Define the ORF sequence
-ORF = re.compile(r"M.*? ")
-
-
-#Search for the possible proteins:
-cRNA_m = DNA.replace("T", "U")
-proteins = set()
-
-for i in range(0,3):
-    seq1, seq2 = translation(RNA_m[i:]), translation(cRNA_m[i:])
-    for seq in seq1, seq2:
-        for j in range(len(seq)):
-            prot = re.search(ORF,seq[j:])
-            if prot != None:
-                proteins.add(prot.group())
-     
-print(max(proteins, key= lambda x: len(x)))
+    
+print(protein)
