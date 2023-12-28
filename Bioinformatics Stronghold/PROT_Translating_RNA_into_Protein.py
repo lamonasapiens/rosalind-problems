@@ -26,7 +26,7 @@ def translation(rna):
     protein = ""
     for i in range(0, len(rna)-2, 3):
         codon = rna[i:i+3]
-        protein = protein + aminoacids[codon]
+        protein += aminoacids[codon]
     return protein
 
 
