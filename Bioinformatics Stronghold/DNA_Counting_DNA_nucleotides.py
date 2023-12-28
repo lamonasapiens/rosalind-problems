@@ -11,4 +11,4 @@ def count(DNA):
     return A, C, G, T
 
 a, c, g, t = count(sample)
-print(f"{a} {c} {g} {t}")
+print(a, c, g, t)
