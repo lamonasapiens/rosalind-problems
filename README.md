@@ -9,7 +9,7 @@ Please ⭐ if it helps you!
 
 | ID    | Title                      | Code     | Topics      |
 | ----- | -------------------------- | -------- | ----------- |
-| DNA   | Counting DNA Nucleotides   | [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/DNA_Counting_DNA_nucleotides.py)  | <span style="color: #555555;">[String Algorithms]</span>  |
+| DNA   | Counting DNA Nucleotides   | [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/DNA_Counting_DNA_nucleotides.py)  | <span style="color: #FF0000;">[ String Algorithms ]</span>  |
 | RNA   | Transcribing DNA into RNA  | [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/RNA_Transcribing_DNA_into_RNA.py)  | [ String Algorithms ]  |
 | REVC  | Complementing a Strand of DNA  | [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/REVC_Complementing_a_strand_of_DNA.py)  | [ String Algorithms ]  |
 | FIB  | Rabbits and Recurrence Relations  | [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/FIB_Rabbits_and_Recurrence_Relations.py)  | [ Combinatorics ]  [ Dynamic programming ] |
