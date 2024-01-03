@@ -23,6 +23,7 @@ Please ⭐ if it helps you!
 | GRPH  | **Overlap Graphs**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/GRPH_Overlap_Graphs.py)  | 
 | IEV  | **Calculating Expected Offspring**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/DNA_Counting_DNA_nucleotides.py)  | 
 | LCSM  | **Finding a Shared Motif** | [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/IEV_Calculating_Expected_Offspring.py)  |
+| LIA  | **Independent Alleles** | [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/LIA_Independent_Alleles.py)  |
 | MPRT  | **Finding a Protein Motif**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/DNA_Counting_DNA_nucleotides.py)  | 
 | MRNA  | **Inferring mRNA from Protein**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/MRNA_Inferring_mRNA_from_Protein.py)  | 
 | ORF  | Open Reading Frames  | [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/ORF_Open_Reading_Frames.py)  | 
@@ -32,6 +33,3 @@ Please ⭐ if it helps you!
 | SPLC  | RNA Splicing  | [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/SPLC_RNA_Splicing.py)  | 
 | LEXF  | **Enumerating k-mers Lexicographically**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/LEXF_Enumerating_k-mers_Lexicographically.py)  | 
 | LGIS  | **Longest Increasing Subsequence**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/LGIS_Longest_Increasing_Subsequence.py)  |  
-
-	
-
