@@ -33,3 +33,4 @@ Please ⭐ if it helps you!
 | SPLC  | RNA Splicing  | [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/SPLC_RNA_Splicing.py)  | 
 | LEXF  | **Enumerating k-mers Lexicographically**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/LEXF_Enumerating_k-mers_Lexicographically.py)  | 
 | LGIS  | **Longest Increasing Subsequence**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/LGIS_Longest_Increasing_Subsequence.py)  |  
+| LONG  | **Genome Assembly as Shortest Superstring**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/LONG_Genome_Assembly_as_Shortest_Superstring.py)  |  
