@@ -26,11 +26,12 @@ Please ⭐ if it helps you!
 | LIA  | **Independent Alleles** | [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/LIA_Independent_Alleles.py)  |
 | MPRT  | **Finding a Protein Motif**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/DNA_Counting_DNA_nucleotides.py)  | 
 | MRNA  | **Inferring mRNA from Protein**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/MRNA_Inferring_mRNA_from_Protein.py)  | 
-| ORF  | Open Reading Frames  | [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/ORF_Open_Reading_Frames.py)  | 
+| ORF  | **Open Reading Frames**  | [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/ORF_Open_Reading_Frames.py)  | 
 | PERM  | **Enumerating Gene Orders**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Bioinformatics%20Stronghold/PERM_Enumerating_Gene_Orders.py)  |
 | PRTM  | **Calculating Protein Mass**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/PRTM_Calculating_Protein_Mass.py)  |
 | REVP  | **Locating Restriction Sites**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/REVP_Locating_Restriction_Sites.py)  | 
-| SPLC  | RNA Splicing  | [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/SPLC_RNA_Splicing.py)  | 
+| SPLC  | **RNA Splicing**  | [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/SPLC_RNA_Splicing.py)  | 
 | LEXF  | **Enumerating k-mers Lexicographically**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/LEXF_Enumerating_k-mers_Lexicographically.py)  | 
 | LGIS  | **Longest Increasing Subsequence**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/LGIS_Longest_Increasing_Subsequence.py)  |  
 | LONG  | **Genome Assembly as Shortest Superstring**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/LONG_Genome_Assembly_as_Shortest_Superstring.py)  |  
+| PPER  | **Partial Permutations**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/PPER_Partial_Permutations.py)  |  
