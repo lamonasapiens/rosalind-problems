@@ -35,3 +35,4 @@ Please ⭐ if it helps you!
 | LGIS  | **Longest Increasing Subsequence**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/LGIS_Longest_Increasing_Subsequence.py)  |  
 | LONG  | **Genome Assembly as Shortest Superstring**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/LONG_Genome_Assembly_as_Shortest_Superstring.py)  |  
 | PPER  | **Partial Permutations**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/PPER_Partial_Permutations.py)  |  
+| PROB  | **Introduction to Random Strings**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/PROB_Introduction_to_Random_Strings.py)  |
