@@ -38,7 +38,8 @@ The probability of having a kid with AaBb genotype is always 1/4 for every
 couple (1/2 Aa * 1/2 Bb). Therefore, P_not_AaBb is the probability of NOT having
 a AaBb kid (=3/4).
 
-The problem is solved using the formula of Binomial Distribution, which calculates the probability of having EXACTLY x successess in y trials: 
+The problem is solved using the formula of Binomial Distribution, which calculates the
+probability of having EXACTLY x successess in y trials: 
 
 P(x = 2) = (y,x) * p^x * (1-p)^(y-x)
 
@@ -49,5 +50,6 @@ where:
     x   = total nº of successes     (= n in our case, the nº of kids with AaBb)
     (y,x) = nº of combinations to get x successes in y trials = [y! / x!(y-x)!]
 
-The probability of having AT LEAST n successes, is calculated using a for loop that adds the probabilities for each possible n.
+The probability of having AT LEAST n successes, is calculated using a for loop that adds
+the probabilities for each possible n.
 """

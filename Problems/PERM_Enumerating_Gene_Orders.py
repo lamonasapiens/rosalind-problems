@@ -11,12 +11,11 @@ from math import factorial
 
 
 f = open("datasets/rosalind_perm.txt", "r")
-n = int(f.read())
+n = f.read().strip()
+n = int(n)
 
-numbers = []
-for i in range(1, n+1):
-    numbers.append(i)
+numbers = list(i for i in range(1, n+1))
 
 print(factorial(n))
 for perm in permutations(numbers):
-    print(*perm)
+    print(*perm) 
