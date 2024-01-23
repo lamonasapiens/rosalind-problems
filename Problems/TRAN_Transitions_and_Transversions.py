@@ -20,7 +20,7 @@ transitions = 0
 transversions = 0
 
 for i, j in zip(s1,s2):
-    if i!= j:
+    if i != j:
         if i in purines and j in purines:
             transitions += 1
         elif i in pyrimidines and j in pyrimidines:

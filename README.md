@@ -39,3 +39,4 @@ Please ⭐ if it helps you!
 | SIGN  | **Enumerating Oriented Gene Orderings**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/SIGN_Enumerating_Oriented_Gene_Orderings.py)  |
 | SSEQ  | **Finding a Spliced Motif**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/SSEQ_Finding_a_Spliced_Motif.py)  |
 | TRAN  | **Transitions and Transversions**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/TRAN_Transitions_and_Transversions.py)  |
+| PMCH  | **Perfect Matchings and RNA Secondary Structures**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/PMCH_Perfect_Matchings_and_RNA_Secondary_Structures.py)  |
