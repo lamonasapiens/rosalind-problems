@@ -34,9 +34,10 @@ Please ⭐ if it helps you!
 | LEXF  | **Enumerating k-mers Lexicographically**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/LEXF_Enumerating_k-mers_Lexicographically.py)  | 
 | LGIS  | **Longest Increasing Subsequence**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/LGIS_Longest_Increasing_Subsequence.py)  |  
 | LONG  | **Genome Assembly as Shortest Superstring**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/LONG_Genome_Assembly_as_Shortest_Superstring.py)  |  
+| PMCH  | **Perfect Matchings and RNA Secondary Structures**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/PMCH_Perfect_Matchings_and_RNA_Secondary_Structures.py)  |
 | PPER  | **Partial Permutations**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/PPER_Partial_Permutations.py)  |  
 | PROB  | **Introduction to Random Strings**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/PROB_Introduction_to_Random_Strings.py)  |
 | SIGN  | **Enumerating Oriented Gene Orderings**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/SIGN_Enumerating_Oriented_Gene_Orderings.py)  |
 | SSEQ  | **Finding a Spliced Motif**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/SSEQ_Finding_a_Spliced_Motif.py)  |
 | TRAN  | **Transitions and Transversions**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/TRAN_Transitions_and_Transversions.py)  |
-| PMCH  | **Perfect Matchings and RNA Secondary Structures**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/PMCH_Perfect_Matchings_and_RNA_Secondary_Structures.py)  |
+| TREE  | **Completing a Tree**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/TREE_Completing_a_Tree.py)  |
