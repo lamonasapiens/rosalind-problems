@@ -42,3 +42,4 @@ Please ⭐ if it helps you!
 | TRAN  | **Transitions and Transversions**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/TRAN_Transitions_and_Transversions.py)  |
 | TREE  | **Completing a Tree**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/TREE_Completing_a_Tree.py)  |
 | CAT  | **Catalan Numbers and RNA Secondary Structures**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/CAT_Catalan_Numbers_and_RNA_Secondary_Structures.py)  |
+| CORR  | **Error Correction in Reads**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/CORR_Error_Correction_in_Reads.py)  |
