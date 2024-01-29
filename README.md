@@ -43,3 +43,5 @@ Please ⭐ if it helps you!
 | TREE  | **Completing a Tree**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/TREE_Completing_a_Tree.py)  |
 | CAT  | **Catalan Numbers and RNA Secondary Structures**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/CAT_Catalan_Numbers_and_RNA_Secondary_Structures.py)  |
 | CORR  | **Error Correction in Reads**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/CORR_Error_Correction_in_Reads.py)  |
+| INOD  | **Counting Phylogenetic Ancestors**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/INOD_Counting_Phylogenetic_Ancestors.py)  |
+| KMER  | **k-Mer Composition**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/KMER_k-Mer_Composition.py)  |
