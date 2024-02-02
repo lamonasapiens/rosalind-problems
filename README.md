@@ -45,3 +45,4 @@ Please ⭐ if it helps you!
 | CORR  | **Error Correction in Reads**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/CORR_Error_Correction_in_Reads.py)  |
 | INOD  | **Counting Phylogenetic Ancestors**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/INOD_Counting_Phylogenetic_Ancestors.py)  |
 | KMER  | **k-Mer Composition**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/KMER_k-Mer_Composition.py)  |
+| KMP  | **Speeding Up Motif Finding**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/KMP_Speeding_Up_Motif_Finding.py)  |
