@@ -17,7 +17,7 @@ n = len(s)
 P = [0]*n #Here, P is equivalent to the lps[] matrix in the KMP algorythm. That is, "the longest proper prefix which is also a suffix"
 
 
-m = 0 #this variable keeps track of the length of the longest prefix sufix value
+m = 0 #This variable keeps track of the length of the longest prefix sufix value
 k = 1
 while k <= n-1:
     if s[m] == s[k]:
