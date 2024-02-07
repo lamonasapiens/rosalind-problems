@@ -48,3 +48,4 @@ Please ⭐ if it helps you!
 | KMP  | **Speeding Up Motif Finding**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/KMP_Speeding_Up_Motif_Finding.py)  |
 | LCSQ  | **Finding a Shared Spliced Motif**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/LCSQ_Finding_a_Shared_Spliced_Motif.py)  |
 | LEXV  | **Ordering Strings of Varying Length Lexicographically**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/LEXV_Ordering_Strings_of_Varying_Length_Lexicographically.py)  |
+| MMCH  | **Maximum Matchings and RNA Secondary Structures**| [code](https://github.com/lamonasapiens/rosalind-problems/blob/main/Problems/MMCH_Maximun_Matchings_and_RNA_Secondary_Structures.py)  |
